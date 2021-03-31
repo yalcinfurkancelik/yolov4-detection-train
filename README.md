@@ -5,4 +5,7 @@ Colab kullanarak yolo modelleri test ve eğitim işlerinin nasıl yapılacağın
 
 Yakında Eklenecekler:
 
-- Open Images Dataset sitesinden yolo formatında etiketli veri seti indirme
+
+- Dosya  İşlemleri nasıl yapılacağın anlatımı.
+-Youtube videosu çekilecek.
+- Open Images Dataset sitesinden yolo formatında etiketli veri seti indirmeni anlatacağım.
