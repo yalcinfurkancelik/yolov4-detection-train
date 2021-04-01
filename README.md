@@ -1,11 +1,11 @@
 # yolov4-detection-train
-Colab kullanarak yolo modelleri test ve eğitim işlerinin nasıl yapılacağını anlattım.
+Google Colab kullanarak yolo modelleri test ve eğitim işlerinin nasıl yapılacağını anlattım.
 
 # Dosya işlemlerini youtube videosu ile anlatacağım.
 
 Yakında Eklenecekler:
 
-
 - Dosya  İşlemleri nasıl yapılacağın anlatımı.
--Youtube videosu çekilecek.
+- Youtube videosu çekilecek.
 - Open Images Dataset sitesinden yolo formatında etiketli veri seti indirmeni anlatacağım.
+- Opencv ile yolov4 kullanımı
